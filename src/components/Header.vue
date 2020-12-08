@@ -2,7 +2,7 @@
   <header>
     <h1>TNB Account Generator</h1>
     <h2>
-      Create accounts and server node options with ease with this
+      Create accounts and server node options with ease using this
       <ExternalLink
         content="open source"
         url="https://github.com/sno2/thenewboston-account-generator"
