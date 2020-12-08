@@ -1,15 +1,23 @@
 # TNB Account Generator
 
-Create accounts and server node options with ease!
+## Project setup
 
-### Setup
+```
+npm install
+```
 
-`npm install`
+### Compiles and hot-reloads for development
 
-### Development
+```
+npm run serve
+```
 
-`npm run dev`
+### Compiles and minifies for production
 
-### Building
+```
+npm run build
+```
 
-`npm run build`
+### Customize configuration
+
+See [Configuration Reference](https://cli.vuejs.org/config/).

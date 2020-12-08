@@ -10,9 +10,7 @@
     <ExternalLink
       content="buffer"
       url="https://www.npmjs.com/package/buffer"
-    />,
-    <ExternalLink content="vite" url="https://www.npmjs.com/package/vite" />,
-    and
+    />, <ExternalLink content="vue cli" url="https://cli.vuejs.org/" />, and
     <ExternalLink content="vue 3" url="https://github.com/vuejs/vue-next" />!
   </footer>
 </template>
